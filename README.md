@@ -1,1 +1,1 @@
-a minimum setup for PHP dev
+a minimum setup script for PHP dev on Apache2
